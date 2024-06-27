@@ -1,0 +1,66 @@
+{
+  "storemenu": [
+    {
+      "name": "Dashboard",
+      "routerLink": [
+        "manager-dashboard"
+      ],
+      "identifier": "manager-dashboard",
+      "iconClass": "icofont-home fs-5",
+      "breadcrumbMessage": "Welcome to Project Dashboard.",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    },
+    {
+      "name": "My Store",
+      "routerLink": [
+        "store"
+      ],
+      "identifier": "MyStore",
+      "iconClass": "icofont-briefcase",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    },
+    {
+      "name": "Work Tracking",
+      "routerLink": [
+        "tasks"
+      ],
+      "identifier": "Tasks",
+      "iconClass": "icofont-users",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+    },
+    {
+      "name": "Calender",
+      "routerLink": [
+        "calander"
+      ],
+      "identifier": "Calendar",
+      "iconClass": "icofont-ui-calendar",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+    },
+    {
+      "name": "Attendance",
+      "routerLink": [
+        "attendance"
+      ],
+      "identifier": "Attendance",
+      "iconClass": "icofont-camera-alt",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+    }
+  ]
+}

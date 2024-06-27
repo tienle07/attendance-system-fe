@@ -1,0 +1,30 @@
+{
+    "systemmenu": [
+      {
+        "name": "Brands",
+        "routerLink": [
+          "brands"
+        ],
+        "identifier": "Brands",
+        "iconClass": "icofont-briefcase",
+        "breadcrumbMessage": "",
+        "isCategory": false,
+        "isApp": false,
+        "children": []
+  
+      },
+      {
+        "name": "Accounts",
+        "routerLink": [
+          "accounts"
+        ],
+        "identifier": "Accounts",
+        "iconClass": "icofont-key",
+        "breadcrumbMessage": "",
+        "isCategory": false,
+        "isApp": false,
+        "children": []
+  
+      }
+    ]
+  }

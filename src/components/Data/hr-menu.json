@@ -1,0 +1,69 @@
+{
+  "hrmenu": [
+    {
+      "name": "Dashboard",
+      "routerLink": [
+        "hr-dashboard"
+      ],
+      "identifier": "dashboard",
+      "iconClass": "icofont-home fs-5",
+      "breadcrumbMessage": "Welcome to Analytics Dashboard.",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    },
+    {
+      "name": "My Brand",
+      "routerLink": [
+        "brand-info"
+      ],
+      "identifier": "Brand Information",
+      "iconClass": "icofont-institution",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    },
+    {
+      "name": "Stores",
+      "routerLink": [
+        "stores"
+      ],
+      "identifier": "Stores",
+      "iconClass": "icofont-briefcase",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    },
+    {
+      "name": "Employees",
+      "routerLink": [
+        "members"
+      ],
+      "identifier": "Employees",
+      "iconClass": "icofont-users-alt-5",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": true,
+      "children": []
+
+    },
+    {
+      "name": "Holidays",
+      "routerLink": [
+        "holidays"
+      ],
+      "identifier": "Holidays",
+      "iconClass": "icofont-ticket",
+      "breadcrumbMessage": "",
+      "isCategory": false,
+      "isApp": false,
+      "children": []
+
+    }
+  ]
+}
